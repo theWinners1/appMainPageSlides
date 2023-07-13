@@ -1,0 +1,25 @@
+{
+    "slideItems": [
+        {
+            "id":1,
+            "imageUrl": "https://github.com/theWinners1/appMainPageSlides/assets/139481935/1076bc50-e5eb-4870-8b28-32931491380f",
+            "title":"Haftanın Popüler Ürünleri",
+            "description": "Bu hafta arabalar çok popüler",
+            "route": "/discountPage"
+        },
+        {
+            "id":2,
+            "imageUrl": "https://github.com/theWinners1/appMainPageSlides/assets/139481935/8fa3b710-413b-43c8-b056-326a79aa2a90",
+            "title":"Akıllı Telefonlar Zaten'de",
+            "description": "Akıllı telefonlar indirimde",
+            "route": "/discountPage"
+        },
+        {
+            "id":3,
+            "imageUrl": "https://github.com/theWinners1/appMainPageSlides/assets/139481935/e7834340-6e0c-43e0-a852-10b8aa97b629",
+            "title":"Deniz eşyaları ve yatlarda sezon fırsatları",
+            "description": "Yatlarda indirim",
+            "route": "/newsPage"
+        }
+    ]
+}
