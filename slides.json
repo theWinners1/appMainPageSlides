@@ -5,21 +5,21 @@
             "imageUrl": "https://github.com/theWinners1/appMainPageSlides/assets/139481935/73179d8e-c1c4-47fb-a84d-cef1748014b8",
             "title":"Haftanın Popüler Ürünleri",
             "description": "Bu hafta arabalar çok popüler",
-            "route": "/discountPage"
+            "route": "/notifications"
         },
         {
             "id":2,
             "imageUrl": "https://github.com/theWinners1/appMainPageSlides/assets/139481935/9e292f88-37db-4605-8800-2d9284c69ce9",
             "title":"Akıllı Telefonlar Zaten'de",
             "description": "Akıllı telefonlar indirimde",
-            "route": "/discountPage"
+            "route": "/notifications"
         },
         {
             "id":3,
             "imageUrl": "https://github.com/theWinners1/appMainPageSlides/assets/139481935/b62e858e-7cdf-4598-ad2e-28e803ce6879",
             "title":"Deniz eşyaları ve yatlarda sezon fırsatları",
             "description": "Yatlarda indirim",
-            "route": "/newsPage"
+            "route": "/notifications"
         }
     ]
 }
