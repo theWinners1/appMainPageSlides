@@ -9,9 +9,9 @@
             "route": "/specialOfferDetails"
             "pageRoute" : 
                 [
-                    "/specialOffers",
-                    "/settings",
                     "/mainPage",
+                    "/settings",
+                    "/specialOffers",
                 ],
             "buttonRoute": "",
             "buttonPageRoute" : []
@@ -25,9 +25,9 @@
             "route": "/specialOfferDetails"
             "pageRoute" : 
                 [
-                    "/specialOffers",
-                    "/settings",
                     "/mainPage",
+                    "/settings",
+                    "/specialOffers",
                 ],
             "buttonRoute": "",
             "buttonPageRoute" : []
@@ -41,9 +41,9 @@
             "route": "/specialOfferDetails"
             "pageRoute" : 
                 [
-                    "/specialOffers",
-                    "/settings",
                     "/mainPage",
+                    "/settings",
+                    "/specialOffers",
                 ],
             "buttonRoute": "",
             "buttonPageRoute" : []
