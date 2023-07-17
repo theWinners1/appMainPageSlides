@@ -48,10 +48,11 @@
                     "/specialOffers"
                 ],
             "buttonRoute": "/moreProducts",
-            "buttonPageRoute" : [
-                "/mainPage",
-                "/searchPage",
-            ],
+            "buttonPageRoute" : 
+                [
+                    "/mainPage",
+                    "/searchPage"
+                ],
             "buttonArguments" : 
                 {
                     "selectedCategory": 6, 
