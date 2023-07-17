@@ -58,6 +58,23 @@
                     "selectedCategory": 6, 
                     "categoryId": "c14"
                 }
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://github-production-user-asset-6210df.s3.amazonaws.com/54381797/253976464-1d5398a5-bac6-4490-9d4e-2c92feb01407.png",
+            "title": "Şans Çarkı zaten'de!",
+            "shortText": "Şans çarkını çevir, sürpriz ödülleri kap",
+            "description": "# Şans çarkını çevir, sürpriz ödülleri kap\n\n\nŞans çarkını çevirerek para ödülü kazanabilirsin! Belki de şanslıysan bootcamp bile kazanabilirsin :) \n Hayatın keyfi **zaten**'le çıkar!\n\n\n\n\n Kampanya Süresi \n\n **26 Temmuz Çarşamba -- 31 Ağustos Perşembe** \n\n > zaten",
+            "route": "/specialOfferDetails",
+            "pageRoute" : 
+                [
+                    "/mainPage",
+                    "/settings",
+                    "/specialOffers"
+                ],
+            "buttonRoute": "",
+            "buttonPageRoute" : [],
+            "buttonArguments" : {}
         }
     ]
 }
