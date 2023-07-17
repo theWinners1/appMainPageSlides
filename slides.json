@@ -14,7 +14,8 @@
                     "/specialOffers"
                 ],
             "buttonRoute": "",
-            "buttonPageRoute" : []
+            "buttonPageRoute" : [],
+            "buttonArguments" : {}
         },
         {
             "id":2,
@@ -30,7 +31,8 @@
                     "/specialOffers"
                 ],
             "buttonRoute": "",
-            "buttonPageRoute" : []
+            "buttonPageRoute" : [],
+            "buttonArguments" : {}
         },
         {
             "id":3,
@@ -45,8 +47,16 @@
                     "/settings",
                     "/specialOffers"
                 ],
-            "buttonRoute": "",
-            "buttonPageRoute" : []
+            "buttonRoute": "/moreProducts",
+            "buttonPageRoute" : [
+                "/mainPage",
+                "/searchPage",
+            ],
+            "buttonArguments" : 
+                {
+                    "selectedCategory": 6, 
+                    "categoryId": "c14"
+                }
         }
     ]
 }
